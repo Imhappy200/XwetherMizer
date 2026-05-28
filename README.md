@@ -7,4 +7,4 @@ Clears temporary files,
 Disables Cortana,
 Enables High Performance mode,
 Removes Microsoft Edge,
-And optimizes Windows for better speed and responsiveness
+And optimizes Windows for better speed and responsiveness.
